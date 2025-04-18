@@ -6291,3 +6291,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:33:13.781] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
 [18Apr2025 16:34:25.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 16:34:25.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:39:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quesito> zzz
+[18Apr2025 16:39:24.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:39:24.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:41:57.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito was shot by Skeleton
+[18Apr2025 16:41:59.813] [Server thread/DEBUG] [twilightforest/]: Player quesito (00e68f86-6d5a-3c2f-b3e2-54833a9cc09f) respawned and received items held in storage
+[18Apr2025 16:42:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported quesito to culon77]
+[18Apr2025 16:44:24.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:44:25.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
