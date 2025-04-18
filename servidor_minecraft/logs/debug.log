@@ -6316,3 +6316,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 17:12:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Sneak 100]
 [18Apr2025 17:14:24.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 17:14:24.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 17:19:24.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:19:24.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 17:23:48.167] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/jungle/base_plate is being run through DFU (hash eb84ecf5def48181cd1b6e1bb0837dfa5c0a70eec549e3ab6cb04375fcce9168), this will cause launch time delays
+[18Apr2025 17:23:48.691] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/taiga/base_plate is being run through DFU (hash cb5b179d83e148dad3f2286b26ff031c98b384f9ca99102179a293b1b9e8e95f), this will cause launch time delays
+[18Apr2025 17:23:48.723] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/base_plate
+[18Apr2025 17:23:48.728] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[18Apr2025 17:23:48.734] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[18Apr2025 17:23:48.739] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/badlands/base_plate is being run through DFU (hash e65ed1d67ebee476a05f6744470d831eba8e3eee0664ea6c850294dfb16dea55), this will cause launch time delays
+[18Apr2025 17:23:48.762] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[18Apr2025 17:23:48.768] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/plains/base_plate
+[18Apr2025 17:23:48.776] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/snowy/base_plate is being run through DFU (hash aaa612a9e37d85d5286619f9a9c0397ed448c58c2cea9dc7bebaec5b731d8a11), this will cause launch time delays
+[18Apr2025 17:23:48.815] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/mountain/base_plate is being run through DFU (hash d2bceff59fd168e8162cb6a807e92f5a72a0c429f26b23a6fddde17cb56975e5), this will cause launch time delays
+[18Apr2025 17:23:48.844] [Worker-Main-27/DEBUG] [ModernFix/]: Structure ctov:pillager_outpost/dark_forest/base_plate is being run through DFU (hash 1bb85056d7285c01e36adeffa5cd63d82233b6f2ae3601c424847bb273f6f4f4), this will cause launch time delays
+[18Apr2025 17:23:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Penteconter]
+[18Apr2025 17:24:24.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:24:24.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 17:24:42.953] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
