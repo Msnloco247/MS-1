@@ -262,6 +262,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-04-18 18:14:27 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/main_root": {
     "criteria": {
       "has_item": "2025-04-18 18:11:09 +0000"
