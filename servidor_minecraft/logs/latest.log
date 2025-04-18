@@ -472,3 +472,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:58:19.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quesito lost connection: Disconnected
 [18Apr2025 16:58:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito left the game
 [18Apr2025 17:00:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Tunnel Treasures]
+[18Apr2025 17:12:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Sneak 100]
