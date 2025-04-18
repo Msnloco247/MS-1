@@ -474,3 +474,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 17:00:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Tunnel Treasures]
 [18Apr2025 17:12:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Sneak 100]
 [18Apr2025 17:23:51.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Penteconter]
+[18Apr2025 18:08:00.407] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-601, y=119, z=-1028}
+[18Apr2025 18:11:09.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Immersive Engineering]
+[18Apr2025 18:14:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [HAMMAH!]
