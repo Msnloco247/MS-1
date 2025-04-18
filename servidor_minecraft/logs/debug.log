@@ -6233,3 +6233,61 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:21:44.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement [Acquire Hardware]
 [18Apr2025 16:24:24.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 16:24:25.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:26:55.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:26:55.203] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Apr2025 16:26:55.204] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[18Apr2025 16:26:55.204] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 obituary
+[18Apr2025 16:26:55.206] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Apr2025 16:26:55.208] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[18Apr2025 16:26:56.446] [Server thread/DEBUG] [twilightforest/]: Player culon77 (658b6bdc-2a49-3d53-b643-6dc534d21f7e) respawned and received items held in storage
+[18Apr2025 16:27:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported culon77 to -842.500000, 128.500000, -1005.500000]
+[18Apr2025 16:28:42.729] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[18Apr2025 16:28:52.444] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[18Apr2025 16:28:56.704] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[18Apr2025 16:28:56.723] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[18Apr2025 16:28:56.727] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[18Apr2025 16:28:56.728] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[18Apr2025 16:29:09.556] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[18Apr2025 16:29:24.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:29:25.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:32:04.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[18Apr2025 16:32:04.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[18Apr2025 16:32:04.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[18Apr2025 16:32:04.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[18Apr2025 16:32:04.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[18Apr2025 16:32:04.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[18Apr2025 16:32:04.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[18Apr2025 16:32:04.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[18Apr2025 16:32:04.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[18Apr2025 16:32:04.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[18Apr2025 16:32:04.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[18Apr2025 16:32:04.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[18Apr2025 16:32:04.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[18Apr2025 16:32:04.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[18Apr2025 16:32:04.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[18Apr2025 16:32:04.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[18Apr2025 16:32:04.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[18Apr2025 16:32:04.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[18Apr2025 16:32:04.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[18Apr2025 16:32:04.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[18Apr2025 16:32:04.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[18Apr2025 16:32:04.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[18Apr2025 16:32:04.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[18Apr2025 16:32:04.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[18Apr2025 16:32:04.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[18Apr2025 16:32:04.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[18Apr2025 16:32:04.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[18Apr2025 16:32:04.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[18Apr2025 16:32:04.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[18Apr2025 16:32:04.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_1
+[18Apr2025 16:32:04.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/imengineer
+[18Apr2025 16:32:04.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[18Apr2025 16:32:04.182] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[18Apr2025 16:32:04.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[18Apr2025 16:33:13.663] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18Apr2025 16:33:13.711] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Apr2025 16:33:13.741] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18Apr2025 16:33:13.766] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[18Apr2025 16:33:13.781] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18Apr2025 16:34:25.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:34:25.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
