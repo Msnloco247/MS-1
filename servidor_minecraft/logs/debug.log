@@ -6371,3 +6371,152 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 18:19:24.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 18:24:24.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 18:24:24.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:28:12.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[18Apr2025 18:28:12.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[18Apr2025 18:28:12.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[18Apr2025 18:28:12.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[18Apr2025 18:28:12.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[18Apr2025 18:28:12.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[18Apr2025 18:28:12.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[18Apr2025 18:28:12.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[18Apr2025 18:28:12.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[18Apr2025 18:28:12.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[18Apr2025 18:28:12.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[18Apr2025 18:28:12.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[18Apr2025 18:28:12.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[18Apr2025 18:28:12.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[18Apr2025 18:28:12.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[18Apr2025 18:28:12.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[18Apr2025 18:28:12.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[18Apr2025 18:28:12.797] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[18Apr2025 18:28:12.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[18Apr2025 18:28:12.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[18Apr2025 18:28:12.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[18Apr2025 18:28:12.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[18Apr2025 18:28:12.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[18Apr2025 18:28:12.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[18Apr2025 18:28:12.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[18Apr2025 18:28:12.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[18Apr2025 18:28:12.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[18Apr2025 18:28:12.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[18Apr2025 18:28:12.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_1
+[18Apr2025 18:28:12.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/imengineer
+[18Apr2025 18:28:12.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[18Apr2025 18:28:12.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[18Apr2025 18:28:12.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[18Apr2025 18:29:24.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:29:25.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:31:05.790] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[18Apr2025 18:31:05.798] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[18Apr2025 18:31:05.809] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[18Apr2025 18:31:05.822] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[18Apr2025 18:31:05.843] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[18Apr2025 18:31:05.857] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[18Apr2025 18:31:05.860] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[18Apr2025 18:31:05.864] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[18Apr2025 18:31:05.867] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[18Apr2025 18:31:05.870] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[18Apr2025 18:31:05.874] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[18Apr2025 18:31:05.878] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[18Apr2025 18:31:09.747] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[18Apr2025 18:31:09.783] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[18Apr2025 18:31:10.164] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[18Apr2025 18:31:10.234] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[18Apr2025 18:31:10.240] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0 is being run through DFU (hash 61d29d193d1139b67226abf029f5b776a5efae41eb5aceaf490bcc9e2a907837), this will cause launch time delays
+[18Apr2025 18:31:10.488] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0 is being run through DFU (hash 8c2947b654d62d07451c5c64374cca3d8feb055d215ee4be279641cb0c09731f), this will cause launch time delays
+[18Apr2025 18:31:10.586] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0 is being run through DFU (hash c7f790a5d8bf7e5b0a7c913e354345227e83176db166f9633a906fa71b6c29cf), this will cause launch time delays
+[18Apr2025 18:31:10.602] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0 is being run through DFU (hash 1f9b876cb636d613be0e47da963f52244d3223d6db1ab032fe8efbe5e26e5d7c), this will cause launch time delays
+[18Apr2025 18:31:10.642] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[18Apr2025 18:31:10.644] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1 is being run through DFU (hash 7c7633cb61709997f1b3b280ac0b87da6fce4c7cb1a7b7fbcd21ccc3d0376469), this will cause launch time delays
+[18Apr2025 18:31:15.558] [Worker-Main-8/DEBUG] [ModernFix/]: Structure mvs:gallows is being run through DFU (hash 501339ffe9fa66937002619f2c8732f09bb1f274817f3e8b86fe076dc1759ba1), this will cause launch time delays
+[18Apr2025 18:31:16.102] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[18Apr2025 18:31:16.173] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[18Apr2025 18:31:17.526] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[18Apr2025 18:31:20.696] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[18Apr2025 18:31:25.329] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[18Apr2025 18:31:25.386] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[18Apr2025 18:31:30.554] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[18Apr2025 18:31:35.553] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18Apr2025 18:31:35.608] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[18Apr2025 18:31:35.628] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18Apr2025 18:31:35.668] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18Apr2025 18:31:35.687] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18Apr2025 18:31:36.902] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[18Apr2025 18:31:42.422] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[18Apr2025 18:33:46.756] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[18Apr2025 18:33:46.775] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[18Apr2025 18:33:46.788] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[18Apr2025 18:33:46.803] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_1 is being run through DFU (hash 00ba2bc4598efe8df039eefaabc30fba7918052f5e2bf78c55e96508a85974c2), this will cause launch time delays
+[18Apr2025 18:33:47.069] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[18Apr2025 18:33:47.077] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[18Apr2025 18:33:47.135] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[18Apr2025 18:33:47.181] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[18Apr2025 18:33:47.201] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_2 is being run through DFU (hash 5dcdc15ff909e031ef282fcfbfcf1b272000f6f5b07a68ec1c1d53ce15a9501e), this will cause launch time delays
+[18Apr2025 18:33:47.223] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_3 is being run through DFU (hash 9be7dc68dca9b93ac37c1224d077f55016a289e6e177eb7fcbafb1b0be4732eb), this will cause launch time delays
+[18Apr2025 18:33:47.236] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_0 is being run through DFU (hash 2cd1bc01e2ef5b512bceb248b598da38d174fe273c20004578927c9480c55468), this will cause launch time delays
+[18Apr2025 18:33:47.257] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0 is being run through DFU (hash ec681d08a0afabe245754b4760984520048ae6720cb4bfb9e9d492f8d01c2884), this will cause launch time delays
+[18Apr2025 18:33:47.265] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_1 is being run through DFU (hash 4fe802a26cac59fd677ec3da19df08f21372ca7ac1ec323283c274d63ce93343), this will cause launch time delays
+[18Apr2025 18:33:47.272] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_3 is being run through DFU (hash 4a7d454dfed90309aabf16a32b78c879d63c99efdddf37b4ce06267dc2a79047), this will cause launch time delays
+[18Apr2025 18:33:47.282] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_tent_0 is being run through DFU (hash 2fd728543984020d4f1d04343ff9e30e35f5e4f813f2f41d3f27bccd6d2dd45f), this will cause launch time delays
+[18Apr2025 18:33:47.284] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0 is being run through DFU (hash 4531e4a1c231841a0733a93ca24c388ab8751ebc7ca192aa3cf71507ae06c44a), this will cause launch time delays
+[18Apr2025 18:33:47.286] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_1 is being run through DFU (hash a1483b8f75e150ae19b7d93a82a12b57e707fc5ffe525b2134a341d967d91b56), this will cause launch time delays
+[18Apr2025 18:33:47.293] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_2 is being run through DFU (hash 2445d4f294b23c401119622c9de2a97f3ea54b9d66f5562660d5fb3ea715d4c5), this will cause launch time delays
+[18Apr2025 18:33:54.046] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18Apr2025 18:33:54.557] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[18Apr2025 18:33:56.032] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[18Apr2025 18:34:07.865] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[18Apr2025 18:34:24.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:34:25.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:34:46.321] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Apr2025 18:34:46.322] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Apr2025 18:34:46.322] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Apr2025 18:34:46.322] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Apr2025 18:34:46.323] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Apr2025 18:34:49.448] [Worker-Main-8/DEBUG] [ModernFix/]: Structure mvs:other_decoration/mushroom_statue is being run through DFU (hash 4bc7484fd21027d50fc6e4f2e0e14e23a5e9e82e4ec4942ee34848c4207f5452), this will cause launch time delays
+[18Apr2025 18:34:59.040] [Worker-Main-27/DEBUG] [ModernFix/]: Structure mvs:horse_pen is being run through DFU (hash 6350ab8d7f99a636e57ed50b605b0f19ca2c40c9f90dfe03242972b357452966), this will cause launch time delays
+[18Apr2025 18:35:19.866] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[18Apr2025 18:35:19.881] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_1 is being run through DFU (hash 9ef801b1458eb187bb9dbbbc6dcb4d4c0e84c529c2aa8f94967186f6d409d0d4), this will cause launch time delays
+[18Apr2025 18:35:19.940] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[18Apr2025 18:35:19.963] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[18Apr2025 18:35:20.031] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_descent_0 is being run through DFU (hash 99432fb44b076deca6e67451c1b4c80e302ce68a73538f4e9cc8f966efa0278d), this will cause launch time delays
+[18Apr2025 18:35:20.103] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_1 is being run through DFU (hash e6df13eaef7a74d1965f3de3582b471f6b1f770df1b94c1df9dfeba244bd2588), this will cause launch time delays
+[18Apr2025 18:35:20.174] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[18Apr2025 18:35:20.267] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_2 is being run through DFU (hash ac4d6c639a806f188581433888f7af3bbc18a30f6901df21e8e73191a1a18bcc), this will cause launch time delays
+[18Apr2025 18:35:20.275] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_3 is being run through DFU (hash a481889cd1e8d7c40c23dcd34c100dbe2db2465fa70cee3440060291f81c98f0), this will cause launch time delays
+[18Apr2025 18:35:20.285] [Worker-Main-8/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_0 is being run through DFU (hash a35634cc515a1421774eecdd8a3a872dc15e3a6d258bfd10ca7320f120db80e1), this will cause launch time delays
+[18Apr2025 18:36:51.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported culon77 to -592.500000, 119.500000, -1019.500000]
+[18Apr2025 18:39:24.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:39:24.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:40:21.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[18Apr2025 18:40:21.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[18Apr2025 18:41:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported culon77 to -592.500000, 119.500000, -1019.500000]
+[18Apr2025 18:44:24.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:44:24.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:45:10.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Unknown Technology]
+[18Apr2025 18:46:04.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=69, z=-1372} BlockPos{x=-210, y=67, z=-1371}
+[18Apr2025 18:46:04.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=69, z=-1372} BlockPos{x=-210, y=67, z=-1371}
+[18Apr2025 18:46:04.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=69, z=-1372} BlockPos{x=-210, y=67, z=-1371}
+[18Apr2025 18:46:04.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=69, z=-1372} BlockPos{x=-210, y=67, z=-1371}
+[18Apr2025 18:46:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported culon77 to -133.500000, 64.500000, 206.500000]
+[18Apr2025 18:46:36.781] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[18Apr2025 18:46:36.808] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Apr2025 18:48:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported culon77 to -590.500000, 119.500000, -1019.500000]
+[18Apr2025 18:49:08.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: culon77 lost connection: Disconnected
+[18Apr2025 18:49:08.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 left the game
+[18Apr2025 18:49:13.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 18:49:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 18:49:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 18:49:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 18:49:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Apr2025 18:49:13.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 18:49:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 18:49:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[18Apr2025 18:49:13.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:49:13.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:49:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 18:49:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Apr2025 18:49:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 18:49:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 18:49:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[18Apr2025 18:49:13.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr2025 18:49:13.744] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
