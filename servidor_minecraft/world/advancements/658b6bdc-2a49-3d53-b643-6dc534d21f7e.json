@@ -118,7 +118,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-17 20:40:33 +0000",
-      "opened_chest": "2025-04-17 19:30:46 +0000"
+      "opened_chest": "2025-04-17 19:30:46 +0000",
+      "opened_cart": "2025-04-18 17:00:32 +0000"
     },
     "done": false
   },
@@ -234,6 +235,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-04-17 21:07:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-18 17:00:32 +0000"
     },
     "done": true
   },

@@ -6304,3 +6304,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:49:25.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 16:54:24.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 16:54:25.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 16:58:19.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: quesito lost connection: Disconnected
+[18Apr2025 16:58:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito left the game
+[18Apr2025 16:59:24.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 16:59:24.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 17:00:32.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Tunnel Treasures]
+[18Apr2025 17:04:24.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 17:04:24.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
