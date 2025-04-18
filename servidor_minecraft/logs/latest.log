@@ -468,3 +468,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:39:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quesito> zzz
 [18Apr2025 16:41:57.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito was shot by Skeleton
 [18Apr2025 16:42:14.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [culon77: Teleported quesito to culon77]
+[18Apr2025 16:46:43.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement [Suit Up]
