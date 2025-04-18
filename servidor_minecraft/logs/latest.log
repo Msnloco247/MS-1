@@ -447,3 +447,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18Apr2025 16:10:20.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quesito> w
 [18Apr2025 16:10:27.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <quesito> zz
 [18Apr2025 16:11:29.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement [Stone Age]
+[18Apr2025 16:13:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement [Getting an Upgrade]
+[18Apr2025 16:13:57.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13410ms or 268 ticks behind
+[18Apr2025 16:17:06.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:17:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement ['X' Marks the Spot]
+[18Apr2025 16:19:03.832] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Apr2025 16:19:06.576] [Worker-Main-27/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Apr2025 16:19:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:19:43.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:19:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:20:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 was slain by Piglin Brute
+[18Apr2025 16:21:44.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: quesito has made the advancement [Acquire Hardware]

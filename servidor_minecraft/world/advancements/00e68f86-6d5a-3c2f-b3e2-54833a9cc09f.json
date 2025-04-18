@@ -1,4 +1,36 @@
 {
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-18 16:17:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "highland": "2025-04-18 16:11:17 +0000",
+      "redwood_forest": "2025-04-18 16:20:46 +0000",
+      "prairie": "2025-04-18 16:15:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 16:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 16:15:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-18 16:17:24 +0000"
+    },
+    "done": false
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-18 16:05:50 +0000"
@@ -7,7 +39,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-04-18 16:05:51 +0000"
+      "minecraft:river": "2025-04-18 16:17:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-18 16:05:51 +0000",
+      "minecraft:meadow": "2025-04-18 16:09:23 +0000"
     },
     "done": false
   },
@@ -17,9 +51,46 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-04-18 16:22:32 +0000",
+      "porkchop": "2025-04-18 16:19:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-18 16:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 16:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 16:13:44 +0000"
+    },
+    "done": true
+  },
   "choups_drakvyrn_mod:choups_drakvyrn_mod_advancement": {
     "criteria": {
       "choups_drakvyrn_mod_advancement_0": "2025-04-18 16:05:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "highland": "2025-04-18 16:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-18 16:21:44 +0000"
     },
     "done": true
   },
