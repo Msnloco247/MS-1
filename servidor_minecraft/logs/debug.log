@@ -6234,3 +6234,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12May2025 04:14:36.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
 [12May2025 04:14:36.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
 [12May2025 04:15:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Ice Bucket Challenge]
+[12May2025 04:19:31.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:19:31.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:20:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noe_555> o
+[12May2025 04:21:17.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noe_555> wwwwwe
+[12May2025 04:22:07.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Who is Cutting Onions?]
+[12May2025 04:23:09.337] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 04:23:09.337] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12May2025 04:23:09.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12May2025 04:23:09.451] [Worker-Main-18/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 04:23:09.460] [Worker-Main-18/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 04:23:09.464] [Worker-Main-18/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 04:23:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [We Need to Go Deeper]
+[12May2025 04:23:21.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noe_555 moved too quickly! -3.0278548868254234,0.0,9.693565848245271
+[12May2025 04:23:21.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12349ms or 246 ticks behind
+[12May2025 04:23:28.291] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/tower/whole is being run through DFU (hash 17cbebf9528c9432ee52ee1542bf326f2ce675266ada3d0c7622191a0d8e4ffb), this will cause launch time delays
+[12May2025 04:23:29.134] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gilded_blackstone is being run through DFU (hash 54773a4b4582ef413954b92c8c6dee1664065d3c63adf491b794623849c5ffc8), this will cause launch time delays
+[12May2025 04:23:29.143] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/gold_blocks is being run through DFU (hash 23b8d080b6500ea194716e68c292816cace033437d1c7e73514cc55bb2d220ae), this will cause launch time delays
+[12May2025 04:23:29.151] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/blaze_spawner is being run through DFU (hash 3c017ac499d1806260d7887485d422d93c59f4fed4cd8f1302f48a7568d764e1), this will cause launch time delays
+[12May2025 04:23:29.513] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/piglins is being run through DFU (hash 2b1938f2a87a672962d2888a7cc304f625b3deafaca128560b1819abe87473be), this will cause launch time delays
+[12May2025 04:23:29.521] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/ruined is being run through DFU (hash 9d85d8751630757b1aeaf9088b7098918ed6ba8e3c439964ac7a27805b284bb4), this will cause launch time delays
+[12May2025 04:23:29.556] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/nether_wart is being run through DFU (hash 04068336b55b2cff732f488d745b61572b76f546de0e66e375f58053bd87e1d5), this will cause launch time delays
+[12May2025 04:23:29.563] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge/normal is being run through DFU (hash f20f6b5af8b39b449985d7e5500a72c23701d57f2e4d97e1bd92fca0c011db5d), this will cause launch time delays
+[12May2025 04:23:29.603] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/bridge_chest is being run through DFU (hash 23801da4e7607bdb5fbea462855b2076d13c3de021d397e4504c86f92bd8c434), this will cause launch time delays
+[12May2025 04:23:29.610] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/glowstone is being run through DFU (hash 6b64c7b0ae06d906e098a965ce5687c86c5fcc9d465bc7e882ea3c029e96a7b2), this will cause launch time delays
+[12May2025 04:23:29.613] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/chisel is being run through DFU (hash 05847989c7cb9762a2e6d6eab050ae41f3d4332c2bb8a06585df0e3d2058f440), this will cause launch time delays
+[12May2025 04:23:29.618] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/treasure_chest is being run through DFU (hash a74297a3bb293409c2ab7980a269e20b5ff911e032e6eeb2b8418c52fad82043), this will cause launch time delays
+[12May2025 04:23:29.623] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/bridge_feature/gold is being run through DFU (hash 986328020a6d2e330e83091629dcd5524252452319d61ac60f18cd58d86d7313), this will cause launch time delays
+[12May2025 04:23:29.628] [Worker-Main-1/DEBUG] [ModernFix/]: Structure explorify:bastion_spiral/dungeon_feature/hoglin_spawner is being run through DFU (hash f5dd51dcd1cb8a46b0a00bf2f73fcabc8515a9e72c2893c265e6ec72581cd249), this will cause launch time delays
+[12May2025 04:23:41.704] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2807, l='ServerLevel[world]', x=-159.00, y=31.00, z=6.00] as it would cause deadlock
+[12May2025 04:23:41.706] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2809, l='ServerLevel[world]', x=-159.00, y=31.00, z=6.00] as it would cause deadlock
+[12May2025 04:23:44.469] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2833, l='ServerLevel[world]', x=-119.00, y=31.00, z=20.00] as it would cause deadlock
+[12May2025 04:23:45.512] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2843, l='ServerLevel[world]', x=-152.00, y=31.00, z=17.00] as it would cause deadlock
+[12May2025 04:23:50.619] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2880, l='ServerLevel[world]', x=99.00, y=31.00, z=-56.00] as it would cause deadlock
+[12May2025 04:24:43.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 04:24:43.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 04:25:06.305] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3401, l='ServerLevel[world]', x=188.00, y=31.00, z=-193.00] as it would cause deadlock
+[12May2025 04:25:16.299] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3496, l='ServerLevel[world]', x=194.00, y=31.00, z=-258.00] as it would cause deadlock
