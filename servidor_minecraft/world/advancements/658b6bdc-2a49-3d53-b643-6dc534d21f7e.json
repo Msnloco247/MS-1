@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-12 05:28:50 +0000",
       "minecraft:birch_forest": "2025-04-17 19:43:52 +0000",
       "minecraft:beach": "2025-04-17 19:36:59 +0000",
       "minecraft:dark_forest": "2025-04-17 19:13:42 +0000",
@@ -156,9 +157,12 @@
       "jade_cliffs": "2025-04-18 17:46:56 +0000",
       "wetland": "2025-05-12 05:00:08 +0000",
       "mystic_grove": "2025-04-18 18:46:36 +0000",
+      "field": "2025-05-12 05:26:27 +0000",
       "overgrown_greens": "2025-04-17 19:40:05 +0000",
       "mediterranean_forest": "2025-05-12 04:30:41 +0000",
+      "coniferous_forest": "2025-05-12 05:24:05 +0000",
       "spider_nest": "2025-04-18 16:37:53 +0000",
+      "forested_field": "2025-05-12 05:28:56 +0000",
       "redwood_forest": "2025-04-17 19:45:37 +0000",
       "dune_beach": "2025-05-12 04:56:29 +0000",
       "volcano": "2025-04-18 18:40:25 +0000",
@@ -296,39 +300,15 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-12 04:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-05-12 04:22:07 +0000"
-    },
-    "done": true
-  },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-05-12 04:32:19 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:tools/tools_root": {
-    "criteria": {
-      "has_item": "2025-05-12 05:03:19 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-05-12 04:32:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-05-12 04:24:17 +0000"
-    },
-    "done": false
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-05-12 05:10:19 +0000"
     },
     "done": true
   },
@@ -338,21 +318,33 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-12 04:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-12 04:24:17 +0000"
+    },
+    "done": false
+  },
+  "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-12 04:32:19 +0000"
     },
     "done": true
   },
-  "immersiveengineering:main/craft_workbench": {
+  "botania:main/root": {
     "criteria": {
-      "has_item": "2025-05-12 05:03:19 +0000"
+      "flower": "2025-05-12 04:32:19 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "botania:main/flower_pickup_lexicon": {
     "criteria": {
-      "entered_nether": "2025-05-12 04:23:13 +0000"
+      "flower": "2025-05-12 04:32:19 +0000"
     },
     "done": true
   },
@@ -362,17 +354,47 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-12 04:15:34 +0000"
-    },
-    "done": true
-  },
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-05-12 04:40:53 +0000"
     },
     "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-05-12 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-05-12 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-12 05:10:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-05-12 05:25:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-05-12 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-05-12 05:50:15 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
