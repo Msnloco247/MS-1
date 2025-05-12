@@ -152,5 +152,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-12 04:50:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

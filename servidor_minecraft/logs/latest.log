@@ -479,3 +479,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12May2025 04:44:15.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noe_555[/127.30.208.166:52719] logged in with entity id 10482 at (-669.6999999880791, 65.0, -963.497556629864)
 [12May2025 04:44:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noe_555 joined the game
 [12May2025 04:44:15.877] [Server thread/INFO] [Jade/]: Syncing config to Noe_555 (35a16aae-226d-3dff-b7ad-142a5b0e27f9)
+[12May2025 04:50:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noe_555 has made the advancement [Best Friends Forever]
+[12May2025 04:53:11.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noe_555> terttt
+[12May2025 05:00:31.785] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[12May2025 05:01:27.217] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[12May2025 05:01:27.218] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[12May2025 05:02:24.242] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[12May2025 05:02:25.907] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[12May2025 05:02:25.909] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[12May2025 05:02:25.910] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[12May2025 05:03:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Time to Tinker]
