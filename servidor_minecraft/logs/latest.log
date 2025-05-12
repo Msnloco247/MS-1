@@ -471,3 +471,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12May2025 04:23:50.619] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/2880, l='ServerLevel[world]', x=99.00, y=31.00, z=-56.00] as it would cause deadlock
 [12May2025 04:25:06.305] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3401, l='ServerLevel[world]', x=188.00, y=31.00, z=-193.00] as it would cause deadlock
 [12May2025 04:25:16.299] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3496, l='ServerLevel[world]', x=194.00, y=31.00, z=-258.00] as it would cause deadlock
+[12May2025 04:29:51.710] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[12May2025 04:30:07.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noe_555 lost connection: Disconnected
+[12May2025 04:30:07.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noe_555 left the game
+[12May2025 04:32:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Sky of Beginning]
+[12May2025 04:40:53.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [A Realistical Logical Ideologist]
+[12May2025 04:44:15.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noe_555[/127.30.208.166:52719] logged in with entity id 10482 at (-669.6999999880791, 65.0, -963.497556629864)
+[12May2025 04:44:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noe_555 joined the game
+[12May2025 04:44:15.877] [Server thread/INFO] [Jade/]: Syncing config to Noe_555 (35a16aae-226d-3dff-b7ad-142a5b0e27f9)

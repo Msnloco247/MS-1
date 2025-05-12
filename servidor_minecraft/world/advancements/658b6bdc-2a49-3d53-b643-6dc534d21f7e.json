@@ -31,6 +31,7 @@
       "minecraft:old_growth_birch_forest": "2025-04-17 19:10:06 +0000",
       "minecraft:deep_dark": "2025-04-18 17:12:21 +0000",
       "minecraft:meadow": "2025-04-17 20:13:32 +0000",
+      "minecraft:savanna": "2025-05-12 04:34:21 +0000",
       "minecraft:plains": "2025-04-17 19:30:35 +0000"
     },
     "done": false
@@ -149,10 +150,12 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-17 20:42:10 +0000",
+      "scrubland": "2025-05-12 04:29:25 +0000",
       "highland": "2025-04-17 20:12:38 +0000",
       "jade_cliffs": "2025-04-18 17:46:56 +0000",
       "mystic_grove": "2025-04-18 18:46:36 +0000",
       "overgrown_greens": "2025-04-17 19:40:05 +0000",
+      "mediterranean_forest": "2025-05-12 04:30:41 +0000",
       "spider_nest": "2025-04-18 16:37:53 +0000",
       "redwood_forest": "2025-04-17 19:45:37 +0000",
       "volcano": "2025-04-18 18:40:25 +0000",
@@ -292,6 +295,18 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-12 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-12 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-12 04:24:17 +0000"
@@ -304,15 +319,33 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-12 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-12 04:23:13 +0000"
     },
     "done": true
   },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-12 04:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-12 04:15:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-05-12 04:40:53 +0000"
     },
     "done": true
   },
