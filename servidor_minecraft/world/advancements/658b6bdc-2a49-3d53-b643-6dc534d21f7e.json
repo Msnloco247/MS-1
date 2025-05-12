@@ -326,6 +326,12 @@
     },
     "done": false
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-12 05:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-12 04:23:13 +0000"

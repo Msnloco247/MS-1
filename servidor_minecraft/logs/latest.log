@@ -489,3 +489,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12May2025 05:02:25.909] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
 [12May2025 05:02:25.910] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
 [12May2025 05:03:19.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has made the advancement [Time to Tinker]
+[12May2025 05:09:51.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/20570, l='ServerLevel[world]', x=637.53, y=64.23, z=-714.76] died, message: 'Leatherworker withered away'
+[12May2025 05:10:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has completed the challenge [Centennial]
+[12May2025 05:12:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 0.37648078817892383
+[12May2025 05:12:41.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 0.7761475477832391
+[12May2025 05:12:41.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 1.3428200773410026

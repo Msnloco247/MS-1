@@ -6659,3 +6659,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12May2025 05:06:42.759] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_3 is being run through DFU (hash 4b39f4bc6ba61651707131b305838e47531a52af5e9fb5c0c925372e5cd6d438), this will cause launch time delays
 [12May2025 05:06:42.761] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_1 is being run through DFU (hash 0a840ff64a7ac143b2d7f70a7de4ff7cf02906f3d8b09e6df28d7444a111c142), this will cause launch time delays
 [12May2025 05:06:42.763] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_deco_empty is being run through DFU (hash 5eca31e6512c853db410fc6913f5137878379dc4feccda0a6896c9e88c57ca53), this will cause launch time delays
+[12May2025 05:09:43.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:09:43.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:09:51.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/20570, l='ServerLevel[world]', x=637.53, y=64.23, z=-714.76] died, message: 'Leatherworker withered away'
+[12May2025 05:10:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: culon77 has completed the challenge [Centennial]
+[12May2025 05:12:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 0.37648078817892383
+[12May2025 05:12:41.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 0.7761475477832391
+[12May2025 05:12:41.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Noe_555) moved wrongly! 1.3428200773410026
+[12May2025 05:14:43.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 05:14:43.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 05:14:55.808] [Worker-Main-29/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/pink_stall
